@@ -1,0 +1,7 @@
+{
+  "name": "myhadir",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
